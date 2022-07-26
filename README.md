@@ -46,5 +46,5 @@ web.ignoring().antMatchers("/v2/api-docs", "/configuration/ui", "/swagger-resour
 - 2: Ao acessar o detalhamento dos endpoints existentes no projeto, podemos observar que é detalhado todos verbos existentes:
 ![image](https://user-images.githubusercontent.com/100853329/180645660-b02bb382-85f2-4ad5-94de-cd1cb8340910.png)
 
--3: Ao acessar os detalhes de um determinado endpoint(No caso abaixo foi o endpoint "insert" do "/categories"), podemos entender o retorno esperado do endpoint, e os detalhes do mesmo.
+- 3: Ao acessar os detalhes de um determinado endpoint(No caso abaixo foi o endpoint "insert" do "/categories"), podemos entender o retorno esperado do endpoint, e os detalhes do mesmo.
 ![image](https://user-images.githubusercontent.com/100853329/180645724-dbfc0cd2-02e7-4b37-9ebc-cadb06de9f1a.png)
